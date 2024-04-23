@@ -3,8 +3,29 @@ body {
     color: white;
 }
 
-.randomNumber{
+/* .randomNumber{
     display: flex;
     justify-content: center;
     
+} */
+
+
+.random__number {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+    height: 30px;
+    border-radius: 10px;
+    align-items: center;
+    border: none;
 }
